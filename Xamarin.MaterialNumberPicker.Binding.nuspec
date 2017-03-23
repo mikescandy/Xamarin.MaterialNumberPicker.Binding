@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>Xamarin.MaterialNumberPicker.Binding</id>
+        <version>1.2.1</version>
+        <title>MaterialNumberPicker</title>
+        <authors>Michele Scandura / Kasual Business</authors>
+        <projectUrl>https://github.com/mikescandy/Xamarin.MaterialNumberPicker.Binding</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>A Xamarin binding of the MaterialNumberPicker library from https://github.com/KasualBusiness/MaterialNumberPicker.</description>
+        <summary>A Xamarin binding of the MaterialNumberPicker library from https://github.com/KasualBusiness/MaterialNumberPicker.</summary>
+        <releaseNotes>Based on MaterialNumberPicker 1.2.1</releaseNotes>
+        <tags>xamarin, android</tags>
+        <serviceable>false</serviceable>
+    </metadata>
+    <files>
+        <file src="Xamarin.MaterialNumberPicker.Binding\bin\Release\Xamarin.MaterialNumberPicker.Binding.dll" target="lib\MonoAndroid\Xamarin.MaterialNumberPicker.Binding.dll" />
+    </files>
+</package>
